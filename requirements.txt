@@ -1,0 +1,13 @@
+Jinja2==2.8
+MarkupSafe==0.23
+argparse==1.2.1
+boto3==1.4.2
+botocore==1.4.85
+-e git+https://github.com/bangordailynews/bpc_serverless.git@4b84e1defbecf040b0e54b29d363255ed61051bf#egg=bpc_serverless-master
+docutils==0.13.1
+futures==3.0.5
+jmespath==0.9.0
+python-dateutil==2.6.0
+s3transfer==0.1.9
+six==1.10.0
+wsgiref==0.1.2
