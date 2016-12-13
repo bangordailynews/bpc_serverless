@@ -1,0 +1,2193 @@
+<!DOCTYPE html>
+<!--
+DTS Cache Assist: 2016-12-12 18:47:26 (generated)
+HTTP_USER_AGENT: Amazon CloudFront
+
+Device Block: CloudFront
+HTTP_CLOUDFRONT_IS_MOBILE_VIEWER: false
+HTTP_CLOUDFRONT_IS_TABLET_VIEWER: false
+HTTP_CLOUDFRONT_IS_DESKTOP_VIEWER: true
+DTS Detected Device: active
+-->
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:og="http://ogp.me/ns#"
+	xmlns:fb="http://www.facebook.com/2008/fbml"
+	lang="en-US">
+
+<!-- 1.564 s -->
+<head profile="http://gmpg.org/xfn/11">
+	<!-- Set Viewport for browser page -->
+	<meta name=viewport content="width=device-width, initial-scale=1.0">
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=EDGE" />
+
+
+
+	<title>  Lincolnville man toils for 32 years to build a Japanese-inspired garden &#8212; Homestead &#8212; Bangor Daily News &#8212; BDN Maine</title><!-- 1.565 s -->
+	<meta name="description" content="Over the last three decades, he’s worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.” Maine news, sports, politics and election results, and obituaries from the Bangor Daily News." /><!-- 1.568 s -->	<meta name="keywords" content="Maine, news, elections, election results, politics, sports, Bangor, Portland, Augusta, weather, obituaries, Waterville, Aroostook, Penobscot, Piscataquis, Somerset, Hancock, Washington, bdn, homestead, living, midcoast, lincolnville man toils for 32 years to build a japanese-inspired garden, is_article, abigail curtis" /><!-- 1.568 s -->	<meta property="fb:app_id" content="748756371893770" />
+
+    <link rel="canonical" href="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/" />
+    <meta property="og:title" content="Lincolnville man toils for 32 years to build a Japanese-inspired garden" />
+    <meta property="og:description" content="Over the last three decades, he’s worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" />
+    <meta property="og:site_name" content="The Bangor Daily News" />
+    <meta property="og:url" content="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-1_19307076-600x388.jpg" />
+
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:site" value="@bangordailynews">
+    <meta name="twitter:url" value="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/">
+    <meta name="twitter:title" value="Lincolnville man toils for 32 years to build a Japanese-inspired garden">
+    <meta name="twitter:description" value="Over the last three decades, he’s worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”">
+    <meta name="twitter:image" value="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-1_19307076-250x250.jpg">
+    <!-- 1.576 s -->
+
+	<link rel="alternate" type="application/rss+xml" title="Bangor Daily News RSS Feed" href="http://bangordailynews.com/feed/" />
+	<link rel="alternate" type="application/atom+xml" title="Bangor Daily News Atom Feed" href="http://bangordailynews.com/feed/atom/" />
+	<link rel="apple-touch-icon" href="http://bangordailynews.com/apple-57x57.png"/>
+	<link rel="icon" type="image/png" href="http://bangordailynews.com/favicon.png">
+	<link rel="pingback" href="http://bangordailynews.com/xmlrpc.php" />
+	<!-- 1.576 s -->
+
+	 <script type='text/javascript'>
+		var bdn_wordpress_theme = 'desktop';
+	</script>
+
+    <link rel="alternate" type="application/rss+xml" title="Bangor Daily News &raquo; Lincolnville man toils for 32 years to build a Japanese-inspired garden Comments Feed" href="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/feed/" />
+
+    <link rel='stylesheet' id='bootstrap-css'  href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css?ver=3.3.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='bebasneue-css'  href='http://bangordailynews.com/wp-content/themes/bdn/css/bebasneue.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='style-css'  href='http://bangordailynews.com/wp-content/themes/bdn/style.css?1479311913&#038;ver=2016-03-01' type='text/css' media='all' />
+    <link rel='stylesheet' id='dashicons-css'  href='http://bangordailynews.com/wp-includes/css/dashicons.min.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='thickbox-css'  href='http://bangordailynews.com/wp-includes/js/thickbox/thickbox.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='sharebar-css'  href='http://bangordailynews.com/wp-content/themes/bdn/css/sharebar.css?ver=3' type='text/css' media='all' />
+    <link rel='stylesheet' id='weather-css'  href='http://bangordailynews.com/wp-content/themes/bdn/css/weather.css?ver=3' type='text/css' media='all' />
+    <link rel='stylesheet' id='bdn-blog-promotions-css'  href='http://bangordailynews.com/wp-content/mu-plugins/bdn-blog-promotions/bdn-blog-promotions.css?ver=1.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='tm_clicktotweet-css'  href='http://bangordailynews.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='bdn_contributors_style-css'  href='http://bangordailynews.com/wp-content/plugins/bdn-contributors/style.css?ver=0.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='bdn-ugc-css'  href='http://bangordailynews.com/wp-content/plugins/bdn-crowdsource/bdn-ugc.css?ver=6' type='text/css' media='all' />
+    <link rel='stylesheet' id='bdn_social_modal-css'  href='http://bangordailynews.com/wp-content/plugins/bdn-social-login/css/style.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='jquery-datatables-css'  href='//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='datatables-buttons-css'  href='//cdn.datatables.net/buttons/1.0.3/css/buttons.dataTables.min.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='datatables-select-css'  href='//cdn.datatables.net/select/1.0.1/css/select.dataTables.min.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='datatables-fixedheader-css'  href='//cdn.datatables.net/fixedheader/3.0.0/css/fixedHeader.dataTables.min.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='datatables-fixedcolumns-css'  href='//cdn.datatables.net/fixedcolumns/3.1.0/css/fixedColumns.dataTables.min.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='datatables-responsive-css'  href='//cdn.datatables.net/responsive/1.0.7/css/responsive.dataTables.min.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='fontawesome-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css?ver=4.1.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='bdngallery-css'  href='http://bangordailynews.com/wp-content/plugins/bdn-gallery/css/bdn-gallery.css?ver=3' type='text/css' media='all' />
+    <link rel='stylesheet' id='bdn_video_zone_style-css'  href='http://bangordailynews.com/wp-content/plugins/bdn-plugins/style/bdn_video_zone.css?ver=2016-10-05' type='text/css' media='all' />
+    <script type='text/javascript' src='http://bangordailynews.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/themes/bdn/jquery.cookie.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/themes/bdn/js/sharebar.js?ver=2'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/themes/bdn/js/weather.js?ver=26'></script>
+    <script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js?ver=3.3.4'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/bdn-social-login/js/handlebars.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/buttons/1.0.3/js/dataTables.buttons.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/buttons/1.0.0/js/buttons.colVis.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/buttons/1.0.0/js/buttons.print.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/pdfmake.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/vfs_fonts.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/buttons/1.0.3/js/buttons.html5.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/select/1.0.1/js/dataTables.select.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/fixedheader/3.0.0/js/dataTables.fixedHeader.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/fixedcolumns/3.1.0/js/dataTables.fixedColumns.min.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//cdn.datatables.net/responsive/1.0.7/js/dataTables.responsive.min.js?ver=4.1.5'></script>
+
+    <script type='text/javascript'>
+    /* <![CDATA[ */
+    var igsv_plugin_vars = {"lang_dir":"http:\/\/bangordailynews.com\/wp-content\/plugins\/inline-google-spreadsheet-viewer\/languages","datatables_classes":".igsv-table:not(.no-datatables)"};
+    /* ]]> */
+    </script>
+
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/inline-google-spreadsheet-viewer/igsv-datatables.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='//www.google.com/jsapi?ver=4.1.5'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/inline-google-spreadsheet-viewer/igsv-gvizcharts.js?ver=4.1.5'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/bdn-plugins/js/fingerprint.min.js?ver=1'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/bdn-plugins/js/audience.js?ver=14'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/bdn-nativo/js/injector.js?ver=8'></script>
+    <script type='text/javascript' src='https://s.ntv.io/serve/load.js?ver=2'></script>
+    <script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/bdn-pingdom/js/pingdom.js?ver=1'></script>
+
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bangordailynews.com/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bangordailynews.com/wp-includes/wlwmanifest.xml" />
+    <meta name="generator" content="WordPress 4.1.5" />
+    <link rel='canonical' href='http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/' />
+
+    <!-- BEGIN wp-parsely Plugin Version 1.7 -->
+    <meta name='wp-parsely_version' id='wp-parsely_version' content='1.7' />
+    <script type="application/ld+json" id="ld-meta-tag">
+    {"@context":"http:\/\/schema.org","@type":"NewsArticle","headline":"Lincolnville man toils for 32 years to build a Japanese-inspired garden","url":"http:\/\/bangordailynews.com\/2016\/12\/12\/homestead\/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden\/","thumbnailUrl":"","articleId":"1-2339644","dateCreated":"2016-12-12T13:50:30Z","articleSection":"Homestead","creator":["Abigail Curtis"],"keywords":["unit.a"]}   </script>
+    <!-- END wp-parsely Plugin Version 1.7 -->
+    <script>(function() { var _fbq = window._fbq || (window._fbq = []); if (!_fbq.loaded) { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; } _fbq.push(['addPixelId', '413375698823720']); })(); window._fbq = window._fbq || []; window._fbq.push(['track', 'PixelInitialized', {}]); </script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=413375698823720&ev=PixelInitialized" /></noscript>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+        ga('create', 'UA-5329647-1', 'auto');        ga('require', 'linkid', 'linkid.js');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview', {
+            'dimension1': 'Abigail Curtis','dimension2': 'post','dimension3': '1.2339644','dimension4': 'Homestead,Living','dimension9': 'unit.a',				'dimension10': '0',
+            'dimension11' : 'No tags'
+        }); //ga send
+    </script>
+
+    <script>
+
+
+
+		/**
+
+		* Function that tracks a click on an outbound link in Google Analytics.
+
+		* This function takes a valid URL string as an argument, and uses that URL string
+
+		* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+
+		* using 'navigator.sendBeacon' in browser that support it.
+
+		 *
+
+		 * @see https://support.google.com/analytics/answer/1136920?hl=en
+
+		*/
+
+		jQuery(function() {
+
+			jQuery('.entry p a').on( 'click', function() {
+
+				ga('send', 'event', 'in-article click', '1.2339644', jQuery(this).attr('href'), {
+
+				  'transport': 'beacon'
+
+				});
+
+			});
+
+		});
+
+
+
+
+
+		jQuery(function($) {
+
+		    // Default time delay before checking location
+
+		    var callBackTime = 100;
+
+
+
+		    // # px before tracking a reader
+
+		    var readerLocation = 150;
+
+
+
+		    // Set some flags for tracking & execution
+
+		    var timer = 0;
+
+		    var scroller = false;
+
+		    var endContent = false;
+
+		    var didComplete = false;
+
+
+
+		    // Set some time variables to calculate reading time
+
+		    var startTime = new Date();
+
+		    var beginning = startTime.getTime();
+
+		    var totalTime = 0;
+
+
+
+		    // Get some information about the current page
+
+		    var pageTitle = '1.2339644';
+
+
+
+		    // Track the aticle load
+
+	        ga('send', 'event', 'Reading', 'ArticleLoaded', pageTitle, {'nonInteraction': 1});
+
+
+
+
+
+		    // Check the location and track user
+
+		    function trackLocation() {
+
+		        bottom = jQuery(window).height() + jQuery(window).scrollTop();
+
+		        height = jQuery(document).height();
+
+
+
+		        // If user starts to scroll send an event
+
+		        if (bottom > readerLocation && !scroller) {
+
+		            currentTime = new Date();
+
+		            scrollStart = currentTime.getTime();
+
+		            timeToScroll = Math.round((scrollStart - beginning) / 1000);
+
+
+
+		            ga('send', 'event', 'Reading', 'StartReading', pageTitle, timeToScroll);
+
+		            scroller = true;
+
+		        }
+
+
+
+		        // If user has hit the bottom of the content send an event
+
+		        if (bottom >= jQuery('.entry').offset().top + jQuery('.entry').innerHeight() && !endContent) {
+
+		            currentTime = new Date();
+
+		            contentScrollEnd = currentTime.getTime();
+
+		            timeToContentEnd = Math.round((contentScrollEnd - scrollStart) / 1000);
+
+		            ga('send', 'event', 'Reading', 'ContentBottom', pageTitle, timeToContentEnd);
+
+		            endContent = true;
+
+		        }
+
+
+
+		        // If user has hit the bottom of page send an event
+
+		        if (bottom >= height && !didComplete) {
+
+		            currentTime = new Date();
+
+		            end = currentTime.getTime();
+
+		            totalTime = Math.round((end - scrollStart) / 1000);
+
+
+
+	                if (totalTime < 60) {
+
+	                	ga('set', 'dimension8', 'Scanner');
+
+	                } else {
+
+	                	ga('set', 'dimension8', 'Reader');
+
+	                }
+
+
+
+	                ga('send', 'event', 'Reading', 'PageBottom', pageTitle, totalTime);
+
+		            didComplete = true;
+
+		        }
+
+		    }
+
+
+
+		    // Track the scrolling and track location
+
+		    jQuery(window).scroll(function() {
+
+		        if (timer) {
+
+		            clearTimeout(timer);
+
+		        }
+
+
+
+		        // Use a buffer so we don't call trackLocation too often.
+
+		        timer = setTimeout(trackLocation, callBackTime);
+
+		    });
+
+
+
+
+
+		});
+
+
+
+		</script>
+
+
+
+
+
+
+
+		<script type="text/javascript">
+
+		var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+
+		(function() { var gads = document.createElement("script");  gads.async = true; gads.type = "text/javascript"; var useSSL = "https:" == document.location.protocol; gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js"; var node = document.getElementsByTagName("script")[0]; node.parentNode.insertBefore(gads, node); })();
+
+
+
+		Audience.setPosTargeting( function() {
+
+			googletag.cmd.push(function() {
+
+								googletag.defineOutOfPageSlot('/1015782/bangordailynews', "bdnads-interstitial").addService(googletag.pubads()).setTargeting("pos", "interstitial");
+
+
+
+														// 20150420 - We dont need this 728 thing anymore, we think.
+
+					// 20150630 — We should keep it, for remnant purposes
+
+					googletag.defineSlot('/1015782/bangordailynews',
+
+						[[970, 90], [970, 250], [728,90]],
+
+						"bdnads-top-728x90").addService(googletag.pubads()).setTargeting("pos", "top");
+
+
+
+													googletag.defineSlot('/1015782/bangordailynews',
+
+						[[970, 90],[728,90]],
+
+						"bdnads-bottom-728x90").addService(googletag.pubads()).setTargeting("pos", "bottom");
+
+
+
+								googletag.defineSlot('/1015782/bangordailynews', [125,50], "bdnads-top-125x50").addService(googletag.pubads()).setTargeting("pos", "top");
+
+								googletag.defineSlot('/1015782/bangordailynews', [[300,250], [300,600]], "bdnads-top-300x250").addService(googletag.pubads()).setTargeting("pos", "top");
+
+								googletag.defineSlot('/1015782/bangordailynews', [[300,250]], "bdnads-remnant-300x250").addService(googletag.pubads()).setTargeting("pos", "remnant");
+
+								googletag.defineSlot('/1015782/bangordailynews', [[300,250], [300,600]], "bdnads-bottom-300x250").addService(googletag.pubads()).setTargeting("pos", "bottom");
+
+								googletag.defineSlot('/1015782/bangordailynews', [300,50], "bdnads-top-300x50").addService(googletag.pubads()).setTargeting("pos", "top");
+
+								googletag.defineSlot('/1015782/bangordailynews', [[300,250], [300,600]], "bdnads-inline-300x250").addService(googletag.pubads()).setTargeting("pos", "inline");
+
+
+
+
+
+
+
+
+
+									googletag.pubads().setTargeting( 'author', 'acurtis' );
+
+
+
+                                    googletag.pubads().setTargeting("kw", ["bdn","homestead","living","midcoast","lincolnville man toils for 32 years to build a japanese-inspired garden","is_article","abigail curtis"]);
+
+
+
+                googletag.pubads().setTargeting("unit", "unit.a");
+
+							});
+
+		});
+
+
+
+
+
+		jQuery(window).load(function () {
+
+			jQuery( '.adSpot iframe' ).each( function() {
+
+				var thisAd = jQuery( this ).contents().find( 'body' );
+
+				if( thisAd[0].innerText == 'GIF89a ' ) {
+
+					ga('send', 'event', 'Bad ads', 'GIF89a ');
+
+				}
+
+			});
+
+		});
+
+		</script>
+
+
+
+
+
+	<!-- centro tag -->
+
+	<script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.sitescout.com/iap/c6137da4e8ca209c';new Image().src = ssaUrl;</script>
+
+
+
+
+
+	<!-- mather listener tag -->
+
+
+
+	<script type="text/javascript">
+
+
+
+	var BdnAdsCommandArray = [];
+
+	</script>
+
+
+
+
+
+	<!-- Google Tag Manager -->
+
+	<script type="text/javascript">
+
+		window.dataLayer = window.dataLayer || [];
+
+		window.dataLayer.push({"event":"dataLayer-loaded","companyName":"Bangor Daily News","contentType":"article","author":"Abigail Curtis","contentPublishedDate":"2016-12-12","primaryCategory":"Living","allCategories":"Homestead|Living"});
+
+	</script>
+
+
+
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W3QLSF');</script>
+
+	<!-- End Google Tag Manager -->
+
+
+
+
+
+	<!-- 4.623 s -->
+
+        <!-- Why here instead of stylesheet? -->
+
+        <style type="text/css">
+
+            ul.related_w_image {
+
+                list-style-type: none;
+
+                padding: 0 !important;
+
+                margin-top: 3px;
+
+            }
+
+
+
+            ul.related_w_image li {
+
+                font-size: 1.3em;
+
+                font-family: 'Chapparral','Georgia',serif;
+
+                padding: 0 !important;
+
+            }
+
+
+
+            ul.related_w_image li img {
+
+                float: left;
+
+                margin: 0 3px 2px 0;
+
+                width: 35px;
+
+                height: 35px;
+
+            }
+
+
+
+            ul.related_w_image li:after {
+
+                content: ".";
+
+                display: block;
+
+                height: 0;
+
+                clear: both;
+
+                visibility: hidden;
+
+                margin-bottom: 2px;
+
+            }
+
+        </style>
+
+
+
+</head>
+
+<!-- Start body -->
+
+<body class="single single-post postid-2339644">
+
+
+
+	<!-- Google Tag Manager (noscript) -->
+
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3QLSF"
+
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+	<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+	        <script type="text/javascript">
+		(function() {
+		  var ARTICLE_URL = 'http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/';
+		  var CONTENT_ID = '1481568449';  // A unique ID will allow the survey to display once per article.
+		  document.write(
+		    '<scr'+'ipt '+
+		    'src="//survey.g.doubleclick.net/survey?site=_co4sl7ki43vcs'+
+		    '&amp;url='+encodeURIComponent(ARTICLE_URL)+
+		    (CONTENT_ID ? '&amp;cid='+encodeURIComponent(CONTENT_ID) : '')+
+		    '&amp;random='+(new Date).getTime()+
+		    '" type="text/javascript">'+'\x3C/scr'+'ipt>');
+		})();
+	</script>
+
+
+
+    <!--[if lt IE 8]>
+
+            <div class="tanbar" style="font-size: 1.2em; margin-top: 18px;"><span style="color: red; font-weight: bold;">It looks like you're using an older browser that the Bangor Daily News no longer supports.</span> The site will still be viewable but certain elements might display incorrectly. In order to enjoy all the features of our site, we recommended you upgrade to a newer, more secure browser. <a href="http://browsehappy.com/" style="font-size: 1.2em;">Read more &raquo;</a>.<br><br>If you don't have administrator privileges for your computer, you can still take action. Google has developed a free plugin for Internet Explorer called <a href="http://www.google.com/chromeframe/" style="font-size: 1.2em;">Google Chrome Frame</a>. You can install it on any computer, even if you can't install applications, and it will ensure your computer stays secure and that you can still visit our website. <a href="http://www.google.com/chromeframe/eula.html?hl=en&prefersystemlevel=true" style="font-size: 1.2em;">Enable Google Chrome Frame now &raquo;</a><div class="clear"></div></div>
+
+    <![endif]-->
+
+
+
+    <div id="bdnads-interstitial">
+
+		<script type="text/javascript">
+
+			BdnAdsCommandArray.push( function() {
+
+				googletag.cmd.push(function() {
+
+					googletag.display("bdnads-interstitial");
+
+				});
+
+			});
+
+		</script>
+
+    </div>
+
+
+
+    <div id="wrapper" class="container-fluid">
+
+
+
+			<div class="adSpot leaderboard" style="height: auto;">
+
+				<div id='bdnads-top-728x90'>
+
+									<script type="text/javascript">
+
+						if( typeof bdn_editorial_type == 'undefined' || bdn_editorial_type != 'sponsored') {
+
+							BdnAdsCommandArray.push( function() {
+
+								googletag.cmd.push(function() {
+
+									googletag.display("bdnads-top-728x90");
+
+								});
+
+							});
+
+						}
+
+					</script>
+
+								</div>
+
+			</div><!-- .adSpot -->
+
+
+
+		<div id="header">
+
+					<div id="nav-top" class="navwrapper">
+
+
+
+			<div class="navbar-white">
+
+				<ul>
+
+					<li><a href="http://classifieds.bangordailynews.com/" target="_self">Classifieds</a></li><span>|</span>
+
+					<li><a href="http://realestate.bangordailynews.com" target="_self">Real Estate</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/jobs/" target="_self">Jobs</a></li><span>|</span>
+
+					<li><a href="http://classifieds.bangordailynews.com/bangor/transportation/search" target="_self">Autos</a></li><span>|</span>
+
+					<li><a href="http://www.mainenotices.com/" target=_blank>Public Notices</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/browse/special-sections/" target="_self">Special Sections</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/circulars/" target="_self">Circulars</a></li>
+
+				</ul>
+
+			</div>
+
+
+
+			<div class="floatright" style="padding: 5px 10px;">
+
+				<div id="your-location">
+
+					News and weather for: <input type="text" length="5" size="5" name="weatherZip" id="weatherZip" value="04402"> <span id="weatherZipClick" style="cursor:pointer" onclick="BdnWeather.newZip( jQuery( '#weatherZip' ).val() );">[change]</span>
+
+				</div>
+
+			</div><!-- .floatright -->
+
+
+
+			<div class="clear"></div>
+
+
+
+		</div>
+
+
+
+		<div id="masthead">
+
+
+
+			<div id="nameplate-wrapper" class="floatleft">
+
+				<div id="nameplate">
+
+					<h3>
+
+						<span>
+
+							<a href="http://bangordailynews.com/?ref=masthead_image"
+
+							   title="Maine news, election results and politics, sports and opinion from the BDN"
+
+							   target="_self">
+
+								<img src="http://bangordailynews.com/wp-content/themes/bdn/images/bdnmaine_dark_50.png"
+
+									 alt="Maine news, election results and politics, sports and opinion - Bangor Daily News"
+
+									 style="height:50px; width:50px;" />
+
+							</a>
+
+						</span>
+
+						<span class="formerly-inline-masthead">
+
+								<a href="http://bangordailynews.com/homestead/?ref=masthead_text"
+
+								   style="color: #000;"
+
+								   target="_self">
+
+									Homestead								</a>
+
+						</span>
+
+					</h3>
+
+				</div>
+
+				<div id="bdn-class-line">
+
+					<div class="cutline">
+
+						Monday, Dec. 12, 2016&nbsp;&nbsp;&nbsp;&nbsp;Last update: <span style="color: #ff0000;">1:43 p.m.</span><!-- (cached) -->					</div>
+
+				</div><!-- #bdn-class-line -->
+
+			</div><!-- .floatleft -->
+
+
+
+			<div class="floatright" style="position:relative; bottom: 10px;">
+
+				<img class="queryly_search_button" style="vertical-align:middle;width: 42px;cursor: pointer;float:right;margin-top:10px;" src="http://www.queryly.com/images/searchicon.png">				<div id="bdn-weather-widget"></div><!-- #bdn-weather-widget -->
+
+
+
+			</div><!-- .floatleft -->
+
+			<div class="clear"></div>
+
+		</div><!-- #masthead -->
+
+
+
+		<div id="nav-main" class="navwrapper">
+
+			<nav id="access" class="navbar-white">
+
+				<ul>
+
+					<li><a href="http://bangordailynews.com/?ref=masthead_navigation" target="_self">News</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/the-point/" target="_self">The Point</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/business/" target="_self">Business</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/next/" target="_self">Next</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/sports/" target="_self">Sports</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/outdoors/" target="_self">Outdoors</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/homestead/" target="_self">Homestead</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/food/" target="_self">Food</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/events/" target="_self">Events</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/opinion/" target="_self">Opinion</a></li><span>|</span>
+
+					<li><a href="http://obituaries.bangordailynews.com/" target="_self">Obituaries</a></li><span>|</span>
+
+					<li><a href="http://bangordailynews.com/maine-blogs/" target="_self">Blogs</a></li>
+
+				</ul>
+
+				<div class="clear"></div>
+
+			</nav>
+
+		</div>
+
+		<div class="clear">
+
+			<div id="nav-wrapper">
+
+				<div id="nav-panel"></div>
+
+				<div class="clear"></div>
+
+			</div>
+
+		</div>
+
+
+
+		<div id="nav-regions">
+
+
+
+			News from your community:
+
+			<a href="http://bangordailynews.com/state/?ref=newRegions" target="_self">State</a> |
+
+			<a href="http://bangordailynews.com/aroostook/?ref=newRegions" target="_self">Aroostook</a> |
+
+			<a href="http://bangordailynews.com/augusta/?ref=newRegions" target="_self">Augusta</a> |
+
+			<a href="http://bangordailynews.com/bangor/?ref=newRegions" target="_self">Bangor</a> |
+
+			<a href="http://bangordailynews.com/down-east/?ref=newRegions" target="_self">Down East</a> |
+
+			<a href="http://bangordailynews.com/hancock/?ref=newRegions" target="_self">Hancock</a> |
+
+			<a href="http://bangordailynews.com/lewiston-auburn/?ref=newRegions" target="_self">Lewiston-Auburn</a> |
+
+			<a href="http://bangordailynews.com/mid-maine/?ref=newRegions" target="_self">Mid-Maine</a> |
+
+			<a href="http://bangordailynews.com/midcoast/?ref=newRegions" target="_self">Midcoast</a> |
+
+			<a href="http://bangordailynews.com/penobscot/?ref=newRegions" target="_self">Penobscot</a> |
+
+			<a href="http://bangordailynews.com/piscataquis/?ref=newRegions" target="_self">Piscataquis</a> |
+
+			<a href="http://bangordailynews.com/portland/?ref=newRegions" target="_self">Portland</a>
+
+
+
+		</div>
+
+								<script type="text/javascript" src="http://bangordailynews.com/wp-content/themes/bdn/js/after-header-v2.js?ver=12"></script>
+
+							<div class="clear-solid"></div>
+
+		</div><!-- #header -->
+
+
+
+		<div id="inside">
+
+
+<style>
+p, #story div {
+	font-size: 16px;
+	line-height: 22px;
+}
+.cutline, .cutlineCredit, .byline, .byline-social, .datetime {
+	font-family: arial, helvetica;
+}
+.cutline {
+	margin-bottom: 10px;
+}
+#bottomRefers h3, #bottomRefers h4, #bottomRefers h5 {
+	font-family: Arial, helvetica, sans-serif;
+}
+#bottomRefers ul h5 {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 1.2em;
+	line-height: 1.4em;
+}
+
+#bottomRefers ul, #bottomRefers li {
+	margin: 0;
+	padding: 0;
+}
+#bottomRefers ul {
+	list-style-type: none;
+	padding-right: 10px;
+	padding-top: 6px;
+}
+#bottomRefers ul img {
+	height: 100px;
+	width: 100px;
+	margin-right: 12px;
+	float: left;
+}
+#bottomRefers li:after {
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 12px;
+   clear: both;
+}
+#related .relatedBox { width: 115px; padding: 6px; }
+#related .relatedBox img { width: 115px; height: 115px; }
+#related{ border: none; }
+.blogwidget{ display: none }
+</style>
+
+<script>
+	jQuery( window ).load(function() {
+
+		jQuery( '.blogwidget' ).css( "display", "block" );
+
+		var kill = ['#blogwidget_5', '#blogwidget_4', '#blogwidget_3', '#blogwidget_2', '#blogwidget_1', '.bdn-blogs-widget', '#adSpot-bottom-300x250', '.bdn-tabber-container'];
+
+		jQuery( kill ).each( function( index, value ) {
+			if( jQuery( '#storySidebar' ).height() > jQuery( '#article_wrapper' ).height() ) {
+				if( value.indexOf( 'blogwidget' ) < 0 )
+					jQuery( jQuery( value ).closest( '.clear-dotted' ) ).remove();
+				jQuery( value ).remove();
+			} else {
+				return false;
+			}
+		});
+
+		jQuery( '.navigationTop a' ).each( function() {
+			jQuery( this ).attr( 'href', jQuery( this ).attr( 'href' ) + '?ref=storyPrevNextLinks' );
+		});
+	});
+	// Used by bdn-nativo plugin.
+	var bdn_page_type = 'single';
+</script>
+
+<div class="evenContainer">
+
+		<div id="article_wrapper" class="bottomDouble rightBorder evenDiv">
+
+		<div id="article">
+			<!-- 4.626 s -->
+				<div class="post-2339644 post type-post status-publish hentry category-homestead category-living publication-BDN" id="post-2339644">
+
+
+
+					<div class="clear"></div>
+					<h5 class="overline homestead">Homestead</h5>					<h1 class="storyHed headline">Lincolnville man toils for 32 years to build a Japanese-inspired garden</h1>
+
+	<ul id="sharebar">
+		<li>
+			<a href='http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/print/' title="Print this">
+				<img src="http://bangordailynews.com/wp-content/themes/bdn/images/print.gif"
+					 alt="Print this" onclick="ga('send', 'event', 'share', 'print');">
+				 Print
+			</a>
+		</li>
+		<li class="border"><a href='http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/email/' title="E-mail this"><img src="http://bangordailynews.com/wp-content/themes/bdn/images/mail.gif" alt="E-mail this" onclick="ga('send', 'event', 'share', 'email');"> Email</a></li>
+        <li class="border"><a href="http://www.facebook.com/sharer.php?u=http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/&t=Lincolnville man toils for 32 years to build a Japanese-inspired garden" target=_blank title="Facebook this" onclick="ga('send', 'event', 'share', 'facebook');"><img src="http://bangordailynews.com/wp-content/themes/bdn/images/facebook.gif" alt="Facebook this"> Share</a></li>
+		<li class="border"><a href="http://twitter.com/intent/tweet?text=Lincolnville+man+toils+for+32+years+to+build+a+Japanese-inspired+garden+http%3A%2F%2Fbangordailynews.com%2F2016%2F12%2F12%2Fhomestead%2Flincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden%2F&via=bangordailynews&related=bangordailynews,bdnbiz,bdnpolitics,rockblogsterbdn,bdnhealth" target=_blank title="Tweet this"  onclick="ga('send', 'event', 'share', 'twitter');"><img src="http://bangordailynews.com/wp-content/themes/bdn/images/twitter.gif" alt="Tweet this"> Tweet</a></li>
+		<li class="border facebook"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fbangordailynews.com%2F2016%2F12%2F12%2Fhomestead%2Flincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden%2F&amp;send=false&amp;layout=box_count&amp;width=50&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90&amp;appId=748756371893770" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true"></iframe></li>
+		<li class="border gplus"><div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-href="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/" data-height="60"></div></li>
+		<li class="border reddit"><div id="reddit-share"></div></li>
+	</ul>
+	<script type="text/javascript">
+		window.onload = function() {
+			reddit_url='http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/';
+			reddit_title='Lincolnville man toils for 32 years to build a Japanese-inspired garden';
+			reddit_newwindow='1';
+			var oScript = document.createElement("script");
+			document.write = function(text) {
+				document.getElementById( 'reddit-share' ).innerHTML += text;
+			};
+			oScript.src = "http://www.reddit.com/static/button/button3.js";
+			document.body.appendChild(oScript);
+		};
+	</script>
+	<script type="text/javascript">
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
+	<script type="text/javascript">jQuery('#sharebar').sharebar({minwidth:1100});</script>
+						<!-- 4.628 s -->
+
+					<!-- IS IT TIME FOR SLIDESHOW TIME? -->
+					<div class="bdn-gallery"><div id="slideshow-wrapper0" class="slideshow-wrapper clearfix" data-lazyload="false" data-autoplay="true" data-transition="fade" data-speed="400"><div id="slideshow-nav0" class="slideshow-nav"><!--<a class="slideshow-prev" href="javascript: void(0);">Prev</a><span class="sep">|</span>--><a class="slideshow-next" href="javascript: void(0);">Next</a><span class="slideshow-info0 slideshow-info"></span></div><!-- .slideshow-nav--><div id="portfolio-slideshow0" class="portfolio-slideshow"><div class="slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-1_19307076-600x388.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;" id="slideshow-first-image"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-2_19307078-600x380.jpg" alt="Ken Cleaves shows off an old photo of what the front drive of his home used to look like. Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Ken Cleaves shows off an old photo of what the front drive of his home used to look like. Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-3_19307074-600x394.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-4_19307088-600x401.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-5_19307090.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-6_19307092-600x400.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-7_19307082-600x381.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-8_19307086-600x398.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-9_19307084-600x400.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-10_19307064-600x400.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-11_19307068-600x388.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-12_19307062-600x397.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-13_19307058-600x400.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-14_19307056-600x400.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div><div class="not-first slideshow-next slideshow-content"><div style="text-align: center;"><a href="javascript: void(0);"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-15_19307066-600x400.jpg" alt="Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”" class="image" style="max-height: 600px; max-width: 600px;"/></a></div><div class="cutlineCredit"><a href="http://bangordailynews.com/author/mbedell/">Micky Bedell</a> | BDN</div><div class="cutline">Over the last three decades, Cleaves has worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.”</div></div></div><!--#portfolio-slideshow--><div class="thumbnails"><div id="thumbnails0" class="pager items clearfix"><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-1_19307076-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-2_19307078-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-3_19307074-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-4_19307088-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-5_19307090-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-6_19307092-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-7_19307082-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-8_19307086-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-9_19307084-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-10_19307064-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-11_19307068-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-12_19307062-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-13_19307058-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-14_19307056-250x250.jpg" class="thumbnail" alt="" title=""><img width="75" height="75" src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-15_19307066-250x250.jpg" class="thumbnail" alt="" title=""></div></div></div><!--#slideshow-wrapper--></div>						<!-- 4.661 s -->
+										<div class="byline">By <a href="http://bangordailynews.com/author/abigail-curtis/">Abigail Curtis</a>, BDN Staff</div>
+										<div class="datetime">
+						Posted <span class="date">Dec. 12, 2016,</span> at <span class="time">8:50 a.m.</span>													<br>Last modified Dec. 12, 2016, at 10:36 a.m.											</div>
+
+					<div class="clear"></div>
+
+					<div class="entry">
+						<div id="thePost">
+						<!-- 4.662 s -->													<div class="clear"></div>
+														<!-- 4.663 s -->
+                            <div>
+                                <h3>Hello {{ word }}</h3>
+                                <h4> AWS Environment </h4>
+                                <div>{{ environ|pprint }}</div>
+                                <h4>AWS Event Data</h4>
+                                <div>{{ event|pprint }}</div>
+                                <h4>AWS Context</h4>
+                                <div>{{ context|pprint }}</div>
+                            </div>
+							<div id="post_content" class="story-text p402_premium">
+								<p>LINCOLNVILLE, Maine &mdash; Millions of years ago, molten rock cooled into granite that would eventually become the bedrock&mdash; both real and metaphorical &mdash; of Maine. </p>
+<p>Just 32 years ago &mdash; a long time for a man but just a blink in geologic time &mdash; love of this granite drew a Massachusetts native named Ken Cleaves to a tiny, long-closed quarry in Lincolnville. Over the last three decades, he’s worked to turn his 60-acre parcel on a Lincolnville hillside into a Japanese-inspired garden he calls “Schleppinghurst.” </p>
+<p>The garden, whose name does indeed stem from the Yiddish word “schlep,” or to haul something tedious and awkward, draws visitors from all over to marvel at what Cleaves has done with stone, plants and time. And while spring, summer and fall might be the usual seasons people visit gardens in this part of the world, early winter at Schelppinghurst reveals something special: the spare, austere beauty that he has wrested from the bony ground. </p>
+<p>“I love rock,” the slight, bearded 70-year-old said. “I’ve loved rock since I was a kid. Although we have glacial erratics where I grew up, we don’t have bedrock. This is great stuff. It has a sense of permanence.” </p><div id="bdnads-inline-300x250"><div id="inline-ad-label">Story continues below advertisement.</div><script type="text/javascript">var current_theme = 'bdn';if( typeof bdn_editorial_type == 'undefined' || bdn_editorial_type != 'sponsored') {    BdnAdsCommandArray.push( function() {googletag.cmd.push(function() {  googletag.display("bdnads-inline-300x250");});	});}</script></div>
+<p>When Cleaves first came to the Heal Quarry more than three decades ago, the land around it had grown up into a spruce and pine forest punctuated by a couple of towering piles of discarded granite, remnants of the quarry’s active years. One of those piles was seven or eight feet tall, and home to 15 porcupines. Elsewhere on the property, exposed ledge rose up dramatically, providing a clue to the bounty of granite that still could be found under the soil. </p>
+<p>Unlike some Maine quarries, which provided granite for monuments, courthouses, post offices and other grand structures all over the east coast, the black granite taken out of Heal Quarry between 1903 and 1935 stayed close to home. Almost all was used for gravestones found in local cemeteries. </p>
+<p>“I’ve seen this granite for so long, I can identify it in graveyards,” Cleaves said. </p>
+<p>The 60-acre parcel was for sale for just $16,000. Cleaves saw promise in it, though his vision then was far different than what it became. Before moving to Lincolnville, he lived on Mosquito Island, off Port Clyde, and become fascinated with the solid beauty of a granite house that was built there from stone quarried on the island. He wanted to build a granite house of his own. </p>
+<p>“That was my thought when I moved here &mdash; to make that happen,” he said. “But that obviously did not happen.” </p>
+<p>He spent his first few months building a “tar paper shack,” a simple building protected from the elements by heavy-duty paper, and by the time it was done, he was tired of carpentry. But he persevered on the property, cutting the forest and eventually using some of the lumber harvested there to build a series of small wooden buildings made notable by their simple lines and the decorative shingles he has used to adorn them. In the largest, where he lives, windows frame pristine views of a small pond and small evergreen trees that enhance, but don’t block, the scenery. The effect is of peace and tranquility, and that’s no accident, Cleaves said. </p>
+<p>“You want people to come into the garden and forget about the bills they have to pay. Forget about taking care of the grandkids,” he said. “You want them to get away from the world.” </p>
+<p>For a long time, Cleaves didn’t know much about Japanese gardening. He knew a little about growing flowers but didn’t consider the way that a landscape could become an integral part of a garden. But when he first saw books about Japanese gardens at a local bookstore, the different aesthetic resonated. Local expert Douglas Roth, the Rockport-based publisher of the <a class="c7" href="https://www.google.com/url?q=http://www.rothteien.com/&amp;sa=D&amp;ust=1481560560624000&amp;usg=AFQjCNGwdgfeKajNHrhxOio_gDwvaeVfIw" target=_blank rel="nofollow">Journal of Japanese Gardening</a>, said that unlike most American gardens, Japanese gardens are like landscape paintings. </p>
+<p>“But instead of oil paint on a two-dimensional canvas, we use real materials like rocks and trees to ‘paint’ the scene,” Roth said. “The goal is to evoke nature, not copy it. To evoke certain beautiful natural patterns and distill them in our living environment. In Ken’s case, he lives on a mountainside, so much of his property is real nature. But most Japanese gardens are carefully tended. They’re carefully created landscape paintings.” </p>
+<p>Cleaves said that in some parts of the Maine coast, especially in places such as Acadia National Park, the exposed ledges and small, gnarled <em>Pinus rigida </em>trees that grow there naturally look as if “a Japanese gardener had been working for a thousand years.” </p>
+<p>That’s not how it was at Schleppinghurst. There, Cleaves dispersed the remnant granite and cleared out the tiny quarry, shoveled topsoil off the ledges and planted seeds from pine cones he gathered on Mount Desert Island, among other plants. He built meandering granite paths and added some stone installations, such as a portion close to his house he calls the Archipelago that leads to the more remote areas of the garden. He is not done yet, but he’s getting closer, he said. </p>
+<p>“When I was starting, I easily put in 30 or 40 hours a week,” Cleaves said. “Now, the maintenance during a growing season is maybe 15 hours a week &#8230; I feel like I’ve done pretty much everything I wanted to do. There are a couple of areas I’d still like to enhance, but you can’t be building a garden like this at 70. I’m pretty satisfied. I’m also running out of steam as a human being.” </p>
+<p>When he was trying to think of a name for his garden, he considered other ideas, including “Black Rock Sisyphus.” But that seemed a little bleak, referring as it does to the Greek myth of a king punished by being forced to roll a large boulder up a hill and watch it come tumbling down again for all eternity. Schleppinghurst &mdash; signifying hard work but also its end results &mdash; is different, he said. </p>
+<p>“Ken schlepped here, that’s my motto,” he joked. </p>
+<p>The end result of all that labor has been pretty amazing, according to Roth. </p>
+<p>“Schleppinghurst is quirky and fun,” Roth said. “He employs many Japanese garden principles throughout, especially when it comes to stone-setting and plant care, but in the end it&#8217;s his own unique creation. He&#8217;s spent most of his lifetime on this one art piece. I salute his dedication to this garden!” </p>
+<p>Cleaves and his garden were the 2008 recipient of the New England Wildflower Society’s Kathryn S. Taylor Public Landscape Award, given for the transformation of the former quarry into a sanctuary that uses hardy native plants in traditional and unusual ways. </p>
+<p>“I didn’t build this garden for recognition, but I must admit it’s been nice to get it,” Cleaves said. </p>
+<p>Early winter can be quiet, even in a year-round garden. When the snow falls, it can transform the paths and rock installations into something serene and utterly different, he said. And in the spring, after the snow melts, he will return to the garden tasks at hand, much as he has done for the last three decades. When visitors come down his rutted, dead-end road, he will give them tours, explaining its winding paths and hidden pleasures, like the owl sculpture perched in a granite ledge near the quarry. He doesn’t make a lot of money on the tours. He’s not a rich man by any ordinary measure, but maybe that’s the trick to Schleppinghurst &mdash; it’s not ordinary. </p>
+<p>Cleaves still works for his living, gardening for a local family. Then he comes back home to work for himself. </p>
+<p>“It’s always been important to me to live in a nice environment,” he said. “I’m unusual in that I’ve sacrificed my economic future to make this my focus. I’ve worked here two or three days a week for 32 years. I’ve learned to live with very little money, by most people’s standards. But it doesn’t feel like a life of deprivation.” </p>
+<p>For information about Schleppinghurst, call Ken Cleaves at 763-4019. Tour rates begin at $20 for the first two visitors in a group. </p>
+<p>
+<p>
+<p>
+</p><!-- ReWrite Debug
+-->
+
+							</div>
+
+
+			<div class="clear-solid"></div>
+		<p id="comments" style="font-family: helvetica, arial; font-weight: 800;">
+			<a href="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/comments/" style="color:#000; text-decoration: none;">
+				<img src="http://bangordailynews.com/wp-content/themes/bdn/images/comments.png" height="16" style="position: relative;top: 2px;">
+				SEE COMMENTS &rarr;
+			</a>
+		</p>
+
+
+														<div class="navigationTop">
+								<div class="alignleft" style="width: 45%">
+								<h5>Previous story:</h5>&laquo; <a href="http://bangordailynews.com/2016/12/09/homestead/program-offers-instruction-assistance-to-help-farmers-scale-up-to-reach-wholesale-markets/" rel="prev">Program offers instruction, assistance to help farmers scale up to reach wholesale markets</a></div>
+								<div class="alignright" style="width: 45%">
+								<h5>Next story:</h5><a href="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/" rel="prev">Lincolnville man toils for 32 years to build a Japanese-inspired garden</a> &raquo;</div>
+								<div class="clear"></div>
+							</div><!--.navigationTop -->
+
+
+									<script type="text/javascript">
+			var maineCookie = jQuery.cookie( 'bdn_state' );
+			if( maineCookie != 'ME' || ( typeof window.bdnAdsShowing == "undefined" ) ) {
+				if( typeof _402_Show == "undefined" ){ console.log('ERROR: Google Surveys Not Loaded'); }
+							var googCookie = jQuery.cookie( '__utma' );
+				if( googCookie ) {
+                    var explode = googCookie.split( '.' );
+                    // the updated function below - Math.floor( randdom + 1) - will always be true
+					if( ( Number( explode[explode.length-1] ) <= 1 || Math.floor( ( Math.random() * 1 ) + 1 ) == 1 ) || ( typeof window.bdnAdsShowing == "undefined" ) ) {
+												try { _402_Show(); } catch(e) {
+													}
+					}
+				} else {
+													try { _402_Show(); } catch(e) {
+											}
+							}
+						}
+		</script>
+
+						</div><!-- #thePost -->
+
+					</div><!-- end entry -->
+
+				</div><!-- end post -->
+
+				<!-- 4.679 s -->
+
+					</div><!-- #article -->
+	</div>
+	<div id="storySidebar" class="bottomSingle evenDiv">
+		        <div id="adSpot-top-300x250" class="adSpot contentBanner" style="min-height:270px;">
+
+                <div id="bdnads-top-300x250" style="text-align: center;"></div>
+
+                <script type="text/javascript">
+
+					BdnAdsCommandArray.push( function() {
+
+						googletag.cmd.push(function() {
+
+							googletag.display("bdnads-top-300x250");
+
+						});
+
+					});
+
+                </script>
+
+        </div>
+
+        <div class="clear-dotted"></div><!--Press releases widget-->		<script type="text/javascript">
+
+		jQuery(document).ready(function() {
+
+			//Default Action
+			jQuery(".bdn-tab-content").hide(); //Hide all content
+			jQuery("ul.bdn-tabs li:first").addClass("active").show(); //Activate first tab
+			jQuery(".bdn-tab-content:first").show(); //Show first tab content
+
+			//On Click Event
+			jQuery("ul.bdn-tabs li").click(function() {
+				jQuery("ul.bdn-tabs li").removeClass("active"); //Remove any "active" class
+				jQuery(this).addClass("active"); //Add "active" class to selected tab
+				jQuery(".bdn-tab-content").hide(); //Hide all tab content
+				var activeTab = jQuery(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+				jQuery(activeTab).show(); //Fade in the active content
+				return false;
+			});
+
+		});
+		</script>
+
+		 <div class="bdn-tabber-container">
+			<ul class="bdn-tabs">
+				<li><a href="#tab1">News</a></li>
+				<li><a href="#tab4">Blogs</a></li>
+				<li><a href="#tab5">Living</a></li>
+				<li><a href="#tab3">Sports</a></li>
+				<li><a href="#tab2">Opinion</a></li>
+			</ul>
+			<!-- Most-read widget took 0.001465 seconds to load (memcached). -->			<div class="bdn-tab-container">
+				<div id="tab1" class="bdn-tab-content">
+					<ol><li><a href="http://bangordailynews.com/2016/12/11/news/lewiston-auburn/pastor-blames-wife-in-message-before-killing-his-daughter-and-himself/?ref=mostReadBoxNews">Pastor blames wife in message before killing his daughter and himself</a></li><li><a href="http://bangordailynews.com/2016/12/11/the-point/why-maine-voters-wont-have-the-last-word-on-referendums-they-passed/?ref=mostReadBoxNews"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/25997302_H19080245-75x75.jpg" width="45" height="45" alt="Why Maine voters won’t have last word on referendums they passed" title="Why Maine voters won’t have last word on referendums they passed" class="floatright" style="margin-left: 5px;" />Why Maine voters won’t have last word on referendums they passed</a></li><li><a href="http://bangordailynews.com/link/a-snowy-slick-monday-for-maine/?ref=mostReadBoxNews"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/NAMmonday15z-75x75.png" width="45" height="45" alt="A Snowy, Slick Monday For Maine" title="A Snowy, Slick Monday For Maine" class="floatright" style="margin-left: 5px;" />A Snowy, Slick Monday For Maine</a></li><li><a href="http://bangordailynews.com/2016/12/11/news/hancock/ellsworth-man-arrested-after-he-accidentally-shoots-woman-at-his-home/?ref=mostReadBoxNews">Ellsworth man arrested after he accidentally shoots woman at his home</a></li><li><a href="http://bangordailynews.com/2016/12/11/news/state/monday-storm-could-drop-up-to-a-foot-of-snow-on-maine/?ref=mostReadBoxNews"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/26045222_H5940205-75x75.jpg" width="45" height="45" alt="Monday storm could drop up to a foot of snow on Maine" title="Monday storm could drop up to a foot of snow on Maine" class="floatright" style="margin-left: 5px;" />Monday storm could drop up to a foot of snow on Maine</a></li></ol>
+				</div>
+				<div id="tab2" class="bdn-tab-content" style="display: none;">
+					<ol><li><a href="http://bangordailynews.com/link/trump-cabinet/?ref=mostReadBoxOpinion"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/DANBY121-75x75.jpg" width="45" height="45" alt="Trump cabinet" title="Trump cabinet" class="floatright" style="margin-left: 5px;" />Trump cabinet</a></li><li><a href="http://bangordailynews.com/2016/12/11/opinion/contributors/how-grass-roots-activism-can-renew-our-shared-sense-of-community/?ref=mostReadBoxOpinion"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/25912462_H19312664-75x75.jpg" width="45" height="45" alt="How grass-roots activism can renew our shared sense of community" title="How grass-roots activism can renew our shared sense of community" class="floatright" style="margin-left: 5px;" />How grass-roots activism can renew our shared sense of community</a></li><li><a href="http://bangordailynews.com/2016/12/11/opinion/contributors/why-the-department-of-education-never-dies/?ref=mostReadBoxOpinion"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/25832642_H19197310-75x75.jpg" width="45" height="45" alt="Why the Department of Education never dies" title="Why the Department of Education never dies" class="floatright" style="margin-left: 5px;" />Why the Department of Education never dies</a></li><li><a href="http://bangordailynews.com/2016/12/11/opinion/contributors/tweets-and-theater-entertain-but-congress-is-the-main-event/?ref=mostReadBoxOpinion"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/25913122_H19236848-75x75.jpg" width="45" height="45" alt="Tweets and theater entertain, but Congress is the main event" title="Tweets and theater entertain, but Congress is the main event" class="floatright" style="margin-left: 5px;" />Tweets and theater entertain, but Congress is the main event</a></li><li><a href="http://bangordailynews.com/2016/12/12/opinion/contributors/democrats-must-get-beyond-mere-opposition-to-trump/?ref=mostReadBoxOpinion"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/26079581_H19180009-75x75.jpg" width="45" height="45" alt="Democrats must get beyond mere opposition to Trump" title="Democrats must get beyond mere opposition to Trump" class="floatright" style="margin-left: 5px;" />Democrats must get beyond mere opposition to Trump</a></li></ol>
+				</div>
+				<div id="tab3" class="bdn-tab-content" style="display: none;">
+					<ol><li><a href="http://bangordailynews.com/2016/12/11/sports/basketball/southern-aroostook-girls-basketball-team-hopes-to-vie-with-top-teams-in-d-north/?ref=mostReadBoxSports"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/11/24936742_H17038821-75x75.jpg" width="45" height="45" alt="Southern Aroostook girls basketball team hopes to vie with top teams in ‘D’ North" title="Southern Aroostook girls basketball team hopes to vie with top teams in ‘D’ North" class="floatright" style="margin-left: 5px;" />Southern Aroostook girls basketball team hopes to vie with top teams in ‘D’ North</a></li><li><a href="http://bangordailynews.com/2016/12/11/sports/basketball/defending-champ-narraguagus-looks-to-repeat-among-deep-class-c-girls-field/?ref=mostReadBoxSports"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/26096102_H17056425-75x75.jpg" width="45" height="45" alt="Defending champ Narraguagus looks to repeat among deep Class C girls field" title="Defending champ Narraguagus looks to repeat among deep Class C girls field" class="floatright" style="margin-left: 5px;" />Defending champ Narraguagus looks to repeat among deep Class C girls field</a></li><li><a href="http://bangordailynews.com/2016/12/11/sports/basketball/machias-southern-aroostook-boys-hope-to-take-next-step-in-d-north/?ref=mostReadBoxSports"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/11/24937122_H17040107-75x75.jpg" width="45" height="45" alt="Machias, Southern Aroostook boys hope to take next step in ‘D’ North" title="Machias, Southern Aroostook boys hope to take next step in ‘D’ North" class="floatright" style="margin-left: 5px;" />Machias, Southern Aroostook boys hope to take next step in ‘D’ North</a></li><li><a href="http://bangordailynews.com/2016/12/11/sports/basketball/george-stevens-boys-look-to-repeat-in-deep-c-north-field/?ref=mostReadBoxSports">George Stevens boys look to repeat in deep ‘C’ North field</a></li><li><a href="http://bangordailynews.com/link/shrine-klowns-meet-up-with-the-flying-frenchman/?ref=mostReadBoxSports"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/Jade-East-Chevy-75x75.jpg" width="45" height="45" alt="Shrine Klowns Meet Up With The Flying Frenchman" title="Shrine Klowns Meet Up With The Flying Frenchman" class="floatright" style="margin-left: 5px;" />Shrine Klowns Meet Up With The Flying Frenchman</a></li></ol>
+				</div>
+				<div id="tab4" class="bdn-tab-content" style="display: none;">
+					<ol><li><a href="https://bangordailynews.com/link/a-snowy-slick-monday-for-maine/?ref=mostReadBoxBlogs"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/NAMmonday15z-75x75.png" width="45" height="45" alt="A Snowy, Slick Monday For Maine" title="A Snowy, Slick Monday For Maine" class="floatright" style="margin-left: 5px;" /><span class="blocktitle" style="font: bold 12px/14px 'trebuchet ms'; color: #000;">PINE TREE WEATHER</span><br>A Snowy, Slick Monday For Maine</a></li><li><a href="https://bangordailynews.com/link/pagan-man-gets-license-after-being-rejected-for-wearing-horns/?ref=mostReadBoxBlogs"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/15391282_1142194265828017_6376911866222663702_o-75x75.jpg" width="45" height="45" alt="Pagan Mainer gets license after being rejected for wearing horns" title="Pagan Mainer gets license after being rejected for wearing horns" class="floatright" style="margin-left: 5px;" /><span class="blocktitle" style="font: bold 12px/14px 'trebuchet ms'; color: #000;">#MAINE</span><br>Pagan Mainer gets license after being rejected for wearing horns</a></li><li><a href="https://bangordailynews.com/link/auburn-legislator-could-be-first-gop-hopeful-to-challenge-angus-king/?ref=mostReadBoxBlogs"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/26079201_H15181415-75x75.jpg" width="45" height="45" alt="Auburn legislator could be first GOP hopeful to challenge Angus King" title="Auburn legislator could be first GOP hopeful to challenge Angus King" class="floatright" style="margin-left: 5px;" /><span class="blocktitle" style="font: bold 12px/14px 'trebuchet ms'; color: #000;">STATE &AMP; CAPITOL</span><br>Auburn legislator could be first GOP hopeful to challenge Angus King</a></li><li><a href="https://bangordailynews.com/link/trump-cabinet/?ref=mostReadBoxBlogs"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/DANBY121-75x75.jpg" width="45" height="45" alt="Trump cabinet" title="Trump cabinet" class="floatright" style="margin-left: 5px;" /><span class="blocktitle" style="font: bold 12px/14px 'trebuchet ms'; color: #000;">GEORGE DANBY | EDITORIAL CARTOONIST</span><br>Trump cabinet</a></li><li><a href="https://bangordailynews.com/link/tony-bennett-kris-kristofferson-more-set-for-portland-bangor-concerts-this-spring/?ref=mostReadBoxBlogs"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/TONYHIGHRES_12391169-75x75.jpg" width="45" height="45" alt="Tony Bennett, Kris Kristofferson, more set for Portland, Bangor concerts this spring" title="Tony Bennett, Kris Kristofferson, more set for Portland, Bangor concerts this spring" class="floatright" style="margin-left: 5px;" /><span class="blocktitle" style="font: bold 12px/14px 'trebuchet ms'; color: #000;">CULTURE SHOCK</span><br>Tony Bennett, Kris Kristofferson, more set for Portland, Bangor concerts this spring</a></li></ol>
+				</div>
+				<div id="tab5" class="bdn-tab-content" style="display: none;">
+					<ol><li><a href="http://bangordailynews.com/2016/12/12/homestead/lincolnville-man-toils-for-32-years-to-build-a-japanese-inspired-garden/?ref=mostReadBoxLiving"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SCHLEPPINGHURST113016-1_19307076-75x75.jpg" width="45" height="45" alt="Lincolnville man toils for 32 years to build a Japanese-inspired garden" title="Lincolnville man toils for 32 years to build a Japanese-inspired garden" class="floatright" style="margin-left: 5px;" />Lincolnville man toils for 32 years to build a Japanese-inspired garden</a></li><li><a href="http://bangordailynews.com/2016/12/12/next/how-to-help-minimize-caregiver-stress-during-the-holidays/?ref=mostReadBoxLiving"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/HOLIDAY-1-75x75.jpg" width="45" height="45" alt="How to help minimize caregiver stress during the holidays" title="How to help minimize caregiver stress during the holidays" class="floatright" style="margin-left: 5px;" />How to help minimize caregiver stress during the holidays</a></li><li><a href="http://bangordailynews.com/link/bourbon-chocolate-pecan-cookies-and-i-cant-even/?ref=mostReadBoxLiving"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/DSC_6406cookiesV23-75x75.jpg" width="45" height="45" alt="Bourbon chocolate pecan cookies. And&#8230; I can&#8217;t even." title="Bourbon chocolate pecan cookies. And&#8230; I can&#8217;t even." class="floatright" style="margin-left: 5px;" />Bourbon chocolate pecan cookies. And&#8230; I can&#8217;t even.</a></li><li><a href="http://bangordailynews.com/link/seeking-peace-in-a-painting/?ref=mostReadBoxLiving"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/Monday-11-75x75.jpg" width="45" height="45" alt="Seeking peace in a painting" title="Seeking peace in a painting" class="floatright" style="margin-left: 5px;" />Seeking peace in a painting</a></li><li><a href="http://bangordailynews.com/link/your-guide-to-the-perfect-snow-day-2/?ref=mostReadBoxLiving"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/2016-12-12-09.16.07-75x75.jpg" width="45" height="45" alt="Your guide to the perfect snow day" title="Your guide to the perfect snow day" class="floatright" style="margin-left: 5px;" />Your guide to the perfect snow day</a></li></ol>
+				</div>
+			</div>
+		</div>
+		<!--end of the multisearch-->
+		<div class="clear-dotted"></div>
+
+
+	            <div class="bdn-blogs-widget widget category-homestead">
+
+                <div class="bdn-blogs-widget-header">
+                    <a href="http://bangordailynews.com/maine-blogs/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget">
+                        <img src="http://bangordailynews.com/wp-content/themes/bdn/images/bdnmaine_110.png" width="60" align="left">
+                    </a>
+                    <h3>
+                        <a href="http://bangordailynews.com/maine-blogs/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget">
+                            Blogs
+                        </a>
+                    </h3>
+                    <div class="promo-links">
+                        <a class="promo-link" href="http://bangordailynews.com/maine-blogs/be-a-bdn-blogger/">Be a BDN blogger</a> |
+                        <a class="promo-link" href="http://bangordailynews.com/maine-blogs/">Browse BDN blogs</a>
+                    </div>
+                </div>
+                <div class="bdn-blogs-widget-posts">
+                    <!-- Blogs widget served from memcached --><!-- blogs category: homestead -->
+			<div id="blogwidget_1" class="blogwidget">
+
+				<h5 class="blogname">
+					<a href="http://csands.bangordailynews.com/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					   target=_blank title="">
+					Pajamas, Books, and Chickens
+					</a>
+				</h5>
+
+
+					<a
+					class="post-image"
+					style="background: #ccc url('https://bdn-data.s3.amazonaws.com/blogs.dir/412/files/2016/12/Screen-Shot-2016-12-12-at-9.49.55-AM-300x300.png'); background-position: center center; background-size: cover;"
+					href="http://csands.bangordailynews.com/2016/12/12/home/backyard-chickens-healthy-treats-for-the-winter-months/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					title="Backyard chickens: Healthy treats for the winter months">
+					Backyard chickens: Healthy treats for the winter months					</a>
+
+
+				<h4 class="blogstory">
+					<a class="blogstory" href="http://csands.bangordailynews.com/2016/12/12/home/backyard-chickens-healthy-treats-for-the-winter-months/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+				   target=_blank>
+					Backyard chickens: Healthy treats for the winter months					</a>
+				</h4>
+			</div>
+
+
+			<div id="blogwidget_2" class="blogwidget">
+
+				<h5 class="blogname">
+					<a href="http://scrapedupkid.bangordailynews.com/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					   target=_blank title="Get out. And take your kid with you.">
+					The Scraped-Up Kid
+					</a>
+				</h5>
+
+
+					<a
+					class="post-image"
+					style="background: #ccc url('https://bdn-data.s3.amazonaws.com/blogs.dir/278/files/2016/12/2016-12-12-09.16.07-300x300.jpg'); background-position: center center; background-size: cover;"
+					href="http://scrapedupkid.bangordailynews.com/2016/12/12/tips-and-strategies/your-guide-to-the-perfect-snow-day-2/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					title="Your guide to the perfect snow day">
+					Your guide to the perfect snow day					</a>
+
+
+				<h4 class="blogstory">
+					<a class="blogstory" href="http://scrapedupkid.bangordailynews.com/2016/12/12/tips-and-strategies/your-guide-to-the-perfect-snow-day-2/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+				   target=_blank>
+					Your guide to the perfect snow day					</a>
+				</h4>
+			</div>
+
+
+			<div id="blogwidget_3" class="blogwidget">
+
+				<h5 class="blogname">
+					<a href="http://housewifeplus.bangordailynews.com/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					   target=_blank title="Sarah Cottrell is Housewife Plus">
+					Housewife Plus
+					</a>
+				</h5>
+
+
+					<a
+					class="post-image"
+					style="background: #ccc url('https://bdn-data.s3.amazonaws.com/blogs.dir/224/files/2016/12/winter-234721_1920-300x300.jpg'); background-position: center center; background-size: cover;"
+					href="http://housewifeplus.bangordailynews.com/2016/12/12/blog/how-to-survive-a-snow-day-with-kids/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					title="How to survive a snow day with kids">
+					How to survive a snow day with kids					</a>
+
+
+				<h4 class="blogstory">
+					<a class="blogstory" href="http://housewifeplus.bangordailynews.com/2016/12/12/blog/how-to-survive-a-snow-day-with-kids/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+				   target=_blank>
+					How to survive a snow day with kids					</a>
+				</h4>
+			</div>
+
+
+			<div id="blogwidget_4" class="blogwidget">
+
+				<h5 class="blogname">
+					<a href="http://jhaines.bangordailynews.com/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					   target=_blank title="">
+					Pen and Potato
+					</a>
+				</h5>
+
+
+					<a
+					class="post-image"
+					style="background: #ccc url('https://bdn-data.s3.amazonaws.com/blogs.dir/450/files/2016/12/wreath-300x300.png'); background-position: center center; background-size: cover;"
+					href="http://jhaines.bangordailynews.com/2016/12/11/home/wreath-making-for-the-modern-woman/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					title="Wreath making for the modern woman">
+					Wreath making for the modern woman					</a>
+
+
+				<h4 class="blogstory">
+					<a class="blogstory" href="http://jhaines.bangordailynews.com/2016/12/11/home/wreath-making-for-the-modern-woman/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+				   target=_blank>
+					Wreath making for the modern woman					</a>
+				</h4>
+			</div>
+
+
+			<div id="blogwidget_5" class="blogwidget">
+
+				<h5 class="blogname">
+					<a href="http://bbaker.bangordailynews.com/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					   target=_blank title="Working together to make a place healthy and safe">
+					Speaking Organically
+					</a>
+				</h5>
+
+
+					<a
+					class="post-image"
+					style="background: #ccc url('https://bdn-data.s3.amazonaws.com/blogs.dir/400/files/2016/12/BDN-clear-water-300x300.jpg'); background-position: center center; background-size: cover;"
+					href="http://bbaker.bangordailynews.com/2016/12/11/home/youve-heard-it-before-thats-because-its-true/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					title="You've heard it before - that's because it's true...">
+					You've heard it before - that's because it's true...					</a>
+
+
+				<h4 class="blogstory">
+					<a class="blogstory" href="http://bbaker.bangordailynews.com/2016/12/11/home/youve-heard-it-before-thats-because-its-true/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+				   target=_blank>
+					You've heard it before - that's because it's true...					</a>
+				</h4>
+			</div>
+
+
+			<div id="blogwidget_6" class="blogwidget">
+
+				<h5 class="blogname">
+					<a href="http://mainecourse.bangordailynews.com/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					   target=_blank title="Recipes for a good life">
+					Maine Course
+					</a>
+				</h5>
+
+
+					<a
+					class="post-image"
+					style="background: #ccc url('https://bdn-data.s3.amazonaws.com/blogs.dir/265/files/2016/12/Recipe-Mini-Broccoli-Cheddar-Twice-Baked-Potatoes-300x300.jpg'); background-position: center center; background-size: cover;"
+					href="http://mainecourse.bangordailynews.com/2016/12/06/recipes/mini-twice-baked-broccoli-cheddar-potatoes/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+					title="Mini Twice Baked Broccoli Cheddar Potatoes">
+					Mini Twice Baked Broccoli Cheddar Potatoes					</a>
+
+
+				<h4 class="blogstory">
+					<a class="blogstory" href="http://mainecourse.bangordailynews.com/2016/12/06/recipes/mini-twice-baked-broccoli-cheddar-potatoes/?utm_campaign=Bangor+Daily+News&utm_source=homestead-widget"
+				   target=_blank>
+					Mini Twice Baked Broccoli Cheddar Potatoes					</a>
+				</h4>
+			</div>
+
+		                </div>
+
+            </div><!-- /.bdn-blogs-widget -->
+
+        <!-- Blogs widget took 0.011984 seconds to load. -->        <div id="adSpot-bottom-300x250" class="adSpot contentBanner" style="min-height:270px;">
+
+                <div id="bdnads-bottom-300x250" style="text-align: center;"></div>
+
+                <script type="text/javascript">
+
+					BdnAdsCommandArray.push( function() {
+
+						googletag.cmd.push(function() {
+
+							googletag.display("bdnads-bottom-300x250");
+
+						});
+
+					});
+
+                </script>
+
+        </div>
+
+        <div class="clear-dotted"></div><div class="sidebar-widget">			<div class="textwidget"><div id="circularhub_module_10108"></div>
+
+<script src="//api.circularhub.com/10108/ea1cd3e8db5ffed1/circularhub_module.js"></script></div>
+		</div>        <div id="adSpot-remnant-300x250" class="adSpot contentBanner" style="min-height:270px;">
+
+                <div id="bdnads-remnant-300x250" style="text-align: center;"></div>
+
+                <script type="text/javascript">
+
+					BdnAdsCommandArray.push( function() {
+
+						googletag.cmd.push(function() {
+
+							googletag.display("bdnads-remnant-300x250");
+
+						});
+
+					});
+
+                </script>
+
+        </div>
+
+        <div class="clear-dotted"></div>	</div>
+</div>
+
+<div class="clear-solid"></div>
+
+<div id="bottomRefers">
+	<div class="bottomSingle">
+
+		<h3><a href="http://bangordailynews.com" style="color: #000; text-decoration: none;">Top Stories</a></h3>
+		<ul>
+			<!-- trying memcached -->
+				<li>
+					<a href="http://bangordailynews.com/2016/12/12/the-point/opioid-overdoses-are-killing-more-mainers-than-car-crashes/?ref=topStories0Thumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/26075741_H15691205-250x250.jpg"  alt="A small pile of a substance believed to be heroin sits on a scale at the state drug testing lab in Augusta." class="th" height="150" width="150" /></a>					<div class="timeSince"></div>
+					<h5><a href="http://bangordailynews.com/2016/12/12/the-point/opioid-overdoses-are-killing-more-mainers-than-car-crashes/?ref=topStories0">Opioid overdoses are killing more Mainers than car crashes</a></h5>
+				</li>
+
+
+				<li>
+					<a href="http://bangordailynews.com/2016/12/11/the-point/why-maine-voters-wont-have-the-last-word-on-referendums-they-passed/?ref=topStories2Thumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/25997302_H19080245-250x250.jpg"  alt="Maine voters passed four citizen-initiated referendums on Nov. 8, 2016, ranging from a minimum wage increase to a ranked-choice voting system. However, history shows that the state&#039;s legislative, executive and judicial branches could drastically affect the way new laws triggered by the referendums will function." class="th" height="150" width="150" /></a>					<div class="timeSince"></div>
+					<h5><a href="http://bangordailynews.com/2016/12/11/the-point/why-maine-voters-wont-have-the-last-word-on-referendums-they-passed/?ref=topStories2">Why Maine voters won’t have last word on referendums they passed</a></h5>
+				</li>
+
+
+				<li>
+					<a href="http://bangordailynews.com/link/auburn-legislator-could-be-first-gop-hopeful-to-challenge-angus-king/?ref=topStories3Thumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/26079201_H15181415-250x250.jpg"  alt="Sen. Eric Brakey, R-Auburn." class="th" height="150" width="150" /></a>					<div class="timeSince"></div>
+					<h5><a href="http://bangordailynews.com/link/auburn-legislator-could-be-first-gop-hopeful-to-challenge-angus-king/?ref=topStories3">Auburn legislator could be first GOP hopeful to challenge Angus King</a></h5>
+				</li>
+
+
+				<li>
+					<a href="http://bangordailynews.com/2016/12/12/news/portland/man-dies-four-others-taken-to-hospital-in-gorham-crash/?ref=topStories4Thumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/wgmegorham-250x250.jpg"  alt="The scene of a fatal crash on Narragansett Road in Gorham." class="th" height="150" width="150" /></a>					<div class="timeSince">1 hour ago</div>
+					<h5><a href="http://bangordailynews.com/2016/12/12/news/portland/man-dies-four-others-taken-to-hospital-in-gorham-crash/?ref=topStories4">Man dies, four others taken to hospital in Gorham crash</a></h5>
+				</li>
+
+
+				<li>
+					<a href="http://bangordailynews.com/story/live-blog-up-to-a-foot-of-snow-expected-monday-in-parts-of-maine/?ref=topStories5Thumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/plow-250x250.jpg"  alt="" class="th" height="150" width="150" /></a>					<div class="timeSince">25 mins ago</div>
+					<h5><a href="http://bangordailynews.com/story/live-blog-up-to-a-foot-of-snow-expected-monday-in-parts-of-maine/?ref=topStories5">Live blog: Up to a foot of snow expected Monday in parts of Maine</a></h5>
+				</li>
+
+
+				<li>
+					<a href="http://bangordailynews.com/2016/12/12/news/midcoast/man-rescued-after-tree-falls-on-him-in-maine-woods/?ref=topStories6Thumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/SOMaccident-AV-1024x760-250x250.jpg"  alt="A member of the Somerville Fire Department conducts traffic control near the scene of a woods accident off of Route 17 on Friday, Dec. 9." class="th" height="150" width="150" /></a>					<div class="timeSince"></div>
+					<h5><a href="http://bangordailynews.com/2016/12/12/news/midcoast/man-rescued-after-tree-falls-on-him-in-maine-woods/?ref=topStories6">Man rescued after tree falls on him in Maine woods</a></h5>
+				</li>
+
+
+				<li>
+					<a href="http://bangordailynews.com/link/pagan-man-gets-license-after-being-rejected-for-wearing-horns/?ref=topStories7Thumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/15391282_1142194265828017_6376911866222663702_o-250x250.jpg"  alt="" class="th" height="150" width="150" /></a>					<div class="timeSince">1 hour ago</div>
+					<h5><a href="http://bangordailynews.com/link/pagan-man-gets-license-after-being-rejected-for-wearing-horns/?ref=topStories7">Pagan Mainer gets license after being rejected for wearing horns</a></h5>
+				</li>
+
+								</ul><!--  /Top Stories list -->
+	</div>
+	<div class="bottomDouble">
+		<h3>Similar Articles</h3><div id="related"><div class="relatedBox"><div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ccc; font-size: .8em;">7.21.2016</div><a href="http://bangordailynews.com/2016/07/21/homestead/how-this-man-found-his-dream-job-on-a-farm-after-retirement/?ref=relatedBox"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/07/MaineGarden071916-1-250x250.jpg?ref=relatedBox"  class="th" height="108" width="108" alt="Lincolnville man toils for 32 years to build a Japanese-inspired garden"></a><h5><a href="http://bangordailynews.com/2016/07/21/homestead/how-this-man-found-his-dream-job-on-a-farm-after-retirement/?ref=relatedBox">How this man found his dream job on a farm after retirement</a></h5></div><div class="relatedBox"><div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ccc; font-size: .8em;">2.8.2009</div><a href="http://bangordailynews.com/2009/02/08/living/grounds-for-appeal/?ref=relatedBox"><img src="https://bdn-data.s3.amazonaws.com/uploads/2009/02/1234144622_55f2-150x150.jpg?ref=relatedBox"  class="th" height="108" width="108" alt="Lincolnville man toils for 32 years to build a Japanese-inspired garden"></a><h5><a href="http://bangordailynews.com/2009/02/08/living/grounds-for-appeal/?ref=relatedBox">Grounds for Appeal</a></h5></div><div class="relatedBox"><div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ccc; font-size: .8em;">8.5.2011</div><h5 style="font-size: 1.2em; line-height: 1.4em;"><a href="http://bangordailynews.com/2011/08/05/living/things-to-do-aug-6-2011-home-and-garden/?ref=relatedBox">Things to do Aug. 6, 2011: Home and Garden</a></h5></div><div class="relatedBox"><div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ccc; font-size: .8em;">3.7.2012</div><h5 style="font-size: 1.2em; line-height: 1.4em;"><a href="http://bangordailynews.com/2012/03/07/news/bangor/bangor-community-gardens-needs-votes-to-win-grant/?ref=relatedBox">Bangor Community Gardens needs votes to win grant</a></h5></div><div class="relatedBox"><div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ccc; font-size: .8em;">6.21.2016</div><a href="http://bangordailynews.com/link/island-explorer/?ref=relatedBox"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/06/Tuesday-12-250x250.jpg?ref=relatedBox"  class="th" height="108" width="108" alt="Lincolnville man toils for 32 years to build a Japanese-inspired garden"></a><h5><a href="http://bangordailynews.com/link/island-explorer/?ref=relatedBox">Island explorer</a></h5></div><div class="clear"></div></div><div class="clear-solid" style="margin: 10px 0;"></div><div class="clear"></div><style type="text/css">.ob_dual_left{ display: none !important; } .odb_div{ border-top: 0 !important; width: 110px !important; padding: 5px !important; } .AR_1 .odb_div.ob-recIdx-4 { border-left: 0 !important } .odb_div img.strip-img { width: 109px !important; height: 109px !important; }</style><div id='taboola-sidebar-2339644'></div><script type='text/javascript'>
+					window._taboola = window._taboola || [];
+					_taboola.push({mode:'autosized-generated-1r', container:'taboola-sidebar-2339644', placement:'sidebar-2339644'});
+					</script>
+						<div class="clear-solid" style="margin: 10px 0;"></div>
+				<h3><a href="http://bangordailynews.com/homestead" style="color: #000; text-decoration: none;">More in Homestead</a></h3>
+				<div id="related">
+																<div class="relatedBox">
+							<div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ff0000; font-size: .8em;">
+								&nbsp;
+							</div>
+															<a href="http://bangordailynews.com/link/how-to-survive-a-snow-day-with-kids/?ref=moreInhomesteadThumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/winter-234721_1920-250x250.jpg"  alt="" class="th" height="115" width="115" /></a>								<h5>
+														<a href="http://bangordailynews.com/link/how-to-survive-a-snow-day-with-kids/?ref=moreInhomestead">
+								How to survive a snow day with kids							</a>
+							</h5>
+						</div>
+											<div class="relatedBox">
+							<div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ff0000; font-size: .8em;">
+								&nbsp;
+							</div>
+															<a href="http://bangordailynews.com/link/wreath-making-for-the-modern-woman/?ref=moreInhomesteadThumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/wreath-250x250.png"  alt="" class="th" height="115" width="115" /></a>								<h5>
+														<a href="http://bangordailynews.com/link/wreath-making-for-the-modern-woman/?ref=moreInhomestead">
+								Wreath making for the modern woman							</a>
+							</h5>
+						</div>
+											<div class="relatedBox">
+							<div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ff0000; font-size: .8em;">
+								&nbsp;
+							</div>
+															<a href="http://bangordailynews.com/2016/12/09/homestead/program-offers-instruction-assistance-to-help-farmers-scale-up-to-reach-wholesale-markets/?ref=moreInhomesteadThumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/25896864_H19262894-250x250.jpg"  alt="A goat peers out of the barn on Dec. 1 at Copper Tail Farm in Waldoboro. Christelle and Jon McKee of Copper Tail Farm participated in the Maine Farmland Trust program focusing on helping farmers and producers figure out how to expand their business and make adjustments necessary for tapping into the wholesale market." class="th" height="115" width="115" /></a>								<h5>
+														<a href="http://bangordailynews.com/2016/12/09/homestead/program-offers-instruction-assistance-to-help-farmers-scale-up-to-reach-wholesale-markets/?ref=moreInhomestead">
+								Program offers instruction, assistance to help farmers scale up to reach wholesale markets							</a>
+							</h5>
+						</div>
+											<div class="relatedBox">
+							<div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ff0000; font-size: .8em;">
+								&nbsp;
+							</div>
+															<a href="http://bangordailynews.com/link/that-time-my-cat-fought-off-an-owl-in-midair/?ref=moreInhomesteadThumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/great-horned-owl-1106379_1280-250x250.jpg"  alt="" class="th" height="115" width="115" /></a>								<h5>
+														<a href="http://bangordailynews.com/link/that-time-my-cat-fought-off-an-owl-in-midair/?ref=moreInhomestead">
+								That time my cat fought off an owl in midair							</a>
+							</h5>
+						</div>
+											<div class="relatedBox">
+							<div class="relatedDate" style="font-family: helvetica, arial, sans-serif; color: #ff0000; font-size: .8em;">
+								&nbsp;
+							</div>
+															<a href="http://bangordailynews.com/link/1037/?ref=moreInhomesteadThumb"><img src="https://bdn-data.s3.amazonaws.com/uploads/2016/12/Atemp1-250x250.jpg"  alt="" class="th" height="115" width="115" /></a>								<h5>
+														<a href="http://bangordailynews.com/link/1037/?ref=moreInhomestead">
+								I thought I was all ready for ice fishing season.  Then I discovered I had been sabotaged!							</a>
+							</h5>
+						</div>
+										<div class="clear"></div>
+				</div>
+				</div>
+	<div class="clear"></div>
+</div>
+
+
+
+	<div class="clear"></div>
+
+	</div><!--#inside-->
+
+
+
+	<div class="adSpot" style="text-align:center;">
+
+		<div id="bdnads-bottom-728x90" style="max-width:970px; min-height:90px; margin: 0 auto;">
+
+                					<script type="text/javascript">
+
+						BdnAdsCommandArray.push( function() {
+
+							googletag.cmd.push(function() {
+
+								googletag.display("bdnads-bottom-728x90");
+
+							});
+
+						});
+
+					</script>
+
+						</div>
+
+    </div>
+
+
+
+    <div id="footer">
+
+		<div id="box-wrap">
+
+			<div id="box1">
+
+				<h1 class="headline">Bangor Daily News</h1>
+
+				<ul class="sitemap">
+
+					<li><a href="http://archive.bangordailynews.com/">Archives</a></li>
+
+					<li><a href="http://bangordailynews.com/">News</a></li>
+
+					<li><a href="http://bangordailynews.com/business/">Business</a></li>
+
+					<li><a href="http://bangordailynews.com/sports/">Sports</a></li>
+
+					<li><a href="http://bangordailynews.com/outdoors/">Outdoors</a></li>
+
+					<li><a href="http://bangordailynews.com/homestead/">Homestead</a></li>
+
+					<li><a href="http://bangordailynews.com/link/tv-listings/">TV Listings</a></li>
+
+					<li><a href="http://obituaries.bangordailynews.com/">Obituaries</a></li>
+
+					<li><a href="http://bangordailynews.com/events/">Things to Do</a></li>
+
+					<li><a href="http://bangordailynews.com/browse/special-sections/">Custom Publications</a></li>
+
+					<li><a href="http://bangordailynews.com/weather/">Weather</a></li>
+
+					<li><a href="http://bangordailynews.com/closings/">Storm Cancellations</a></li>
+
+				</ul>
+
+			</div><!-- #box1 -->
+
+			<div id="box2">
+
+				<h1 class="headline">About Us</h1>
+
+				<ul class="sitemap">
+
+					<li><a href="http://bangordailynews.com/about/">BDN History</a></li>
+
+					<li><a href="http://external.bangordailynews.com/bdn-anniversary/">BDN 120 Years</a></li>
+
+					<li><a href="http://bangordailynews.com/contact">Contact Us</a></li>
+
+					<li><a href="http://store.bangordailynews.com/">Purchase Photos</a></li>
+
+					<li><a href="http://nie.bangordailynews.com/">Newspapers in Education</a></li>
+
+					<li><a href="http://bangordailynews.com/terms-of-service/">Terms of Service</a></li>
+
+					<li><a href="http://bangordailynews.com/privacy/">Privacy Policy</a></li>
+
+				</ul>
+
+				<h1 class="headline" style="margin-top: 15px;">Subscribe</h1>
+
+				<ul class="sitemap">
+
+					<li><a href="http://bdnoffers.com" target="_blank">Subscribe to the BDN</a></li>
+
+					<li><a href="http://bangordailynews.com/new-account/?icn=email&ici=text-link_footer">Create BDN Maine Account</a></li>
+
+					<li><a href="http://bangordailynews.com/manage-account/">Manage Your Account</a></li>
+
+					<li><a href="http://bangordailynews.com/newsletters">Newsletter Sign-up</a></li>
+
+					<li><a href="http://bangordailynews.com/feed/">RSS</a></li>
+
+				</ul>
+
+			</div><!-- #box2 -->
+
+			<div id="box3">
+
+				<h1 class="headline">Sales and Marketing</h1>
+
+				<ul class="sitemap">
+
+					<li><a href="http://solutions.bangordailynews.com/">Online Advertising and Digital Marketing Solutions</a></li>
+
+					<li><a href="http://bangordailynews.com/staff/bdn-maine/sales-marketing/">Online Advertising Staff Directory</a></li>
+
+					<li><a href="http://bangordailynews.com/staff/advertising/">Print Advertising</a></li>
+
+					<li><a href="http://bangordailynews.com/staff/advertising/">Print Advertising Staff Directory</a></li>
+
+					<li><a href="http://bangordailynews.com/staff/advertising/classifieds/">Classifieds</a></li>
+
+					<li><a href="http://bangordailynews.com/staff/advertising/special-sections/">Custom Publications and The Weekly</a></li>
+
+					<li><a href="http://creativeservices.bangordailynews.com/guide-to-sending-files/">Creative Services-Guide to Sending Files</a></li>
+
+					<li><a href="https://www.facebook.com/BDNMaineEvents" title="BDN Maine Events on Facebook">BDN Maine Events on Facebook</a></li>
+
+				</ul>
+
+			</div><!-- #box3 -->
+
+			<div id="box4" style="overflow: auto">
+
+				<h1 class="headline">On Facebook</h1>
+
+				<ul class="sitemap">
+
+					<li><a href="http://www.facebook.com/bangordailynews" title="The Bangor Daily News on Facebook">The Bangor Daily News</a></li>
+
+					<li><a href="http://www.facebook.com/bdnmainemidcoast" title="BDN Midcoast on Facebook">Midcoast</a></li>
+
+					<li><a href="http://www.facebook.com/bdnmaineportland" title="BDN Portland on Facebook">Portland</a></li>
+
+					<li><a href="http://www.facebook.com/bdnmainearoostook" title="BDN Aroostook on Facebook">Aroostook</a></li>
+
+                    <li><a href="http://www.facebook.com/bdnmainedowneast" title="BDN Midcoast on Facebook">Downeast</a></li>
+
+                    <li><a href="http://www.facebook.com/bdnmainehancock" title="BDN Hancock on Facebook">Hancock</a></li>
+
+                    <li><a href="http://www.facebook.com/pages/BDN-Katahdin-and-Lincoln-Lakes-Region-News/139993822727247" title="BDN Katahdin and Lincoln Lakes Region on Facebook">Katahdin and Lincoln Lakes Region</a></li>
+
+                    <hr />
+
+                    <li><a href="http://www.facebook.com/BDNFoodForThought" title="BDN Food on Facebook">Food</a></li>
+
+					<li><a href="https://www.facebook.com/bdnmaineoutdoors" title="BDN Outdoors on Facebook">Outdoors</a></li>
+
+					<li><a href="https://www.facebook.com/BDNMaineFamilies" title="BDN Maine Families on Facebook">Maine Families</a></li>
+
+					<li><a href="https://www.facebook.com/BDNBlogs" title="BDN Blogs on Facebook">BDN Blogs</a></li>
+
+                    <hr />
+
+					<li><a href="https://www.facebook.com/pages/BDN-Editorial-Opinion/107406425993156" title="BDN Editorial and Opinion on Facebook">Editorial and Opinion</a></li>
+
+                    <hr />
+
+					<li><a href="https://www.facebook.com/bdnmainesports" title="BDN Maine Sports on Facebook">Maine Sports</a></li>
+
+					<li><a href="https://www.facebook.com/bdnhssports" title="BDN High School Sports on Facebook">High School Sports</a></li>
+
+				</ul>
+
+				<h1 class="headline">On Twitter</h1>
+
+				<ul class="sitemap">
+
+					<li><a href="http://www.twitter.com/bangordailynews" title="The Bangor Daily News on Twitter">@bangordailynews</a></li>
+
+					<li><a href="http://www.twitter.com/bdnpolitics" title="The Bangor Daily News on Twitter">@bdnpolitics</a></li>
+
+					<li><a href="http://www.twitter.com/bdnmaineblogs" title="The Bangor Daily News Blogs on Twitter">@bdnmaineblogs</a></li>
+
+					<li><a href="http://www.twitter.com/bdnmainefocus" title="The Bangor Daily News Maine Focus on Twitter">@bdnmainefocus</a></li>
+
+				</ul>
+
+			</div><!-- #box4 -->
+
+		</div><!--#box-wrap -->
+
+	</div><!--#footer -->
+
+
+
+</div><!-- #bdn-wrapper -->
+
+
+
+
+
+			<script>
+
+
+
+				jQuery(function($) {
+
+
+
+					var iframe = document.createElement('iframe');
+
+					iframe.style.display = "none";
+
+					iframe.id = 'bdn-tophat';
+
+					iframe.src = "http://bangordailynews.com/wp-content/plugins/bdn-plugins/templates/bdn-tophat-template.php?ver=2.4.1";
+
+					document.body.appendChild(iframe);
+
+
+
+					$(iframe).css({
+
+						'width': $(window).width(),
+
+						'height': '60px', //initial height to start
+
+						'z-index' : 20000000,
+
+						'position': 'fixed',
+
+						'top': '0',
+
+						'left': '0',
+
+						'border': '0',
+
+						'overflow': 'hidden',
+
+						'display' : 'block'
+
+					});
+
+
+
+					/**
+
+					 * So the iframe covers up the top of the page.
+
+					 * This is no good! People need to be able to click on navigation
+
+					 * items through the iframe.
+
+					 *
+
+					 * @see http://stackoverflow.com/questions/926916/how-to-get-the-bodys-content-of-an-iframe-in-javascript
+
+					 * @see http://getbootstrap.com/javascript/#collapse-events
+
+					 * @see http://stackoverflow.com/questions/205087/jquery-ready-in-a-dynamically-inserted-iframe
+
+					 *
+
+					 * After the iframe loads, look at the contents of the frame and resize
+
+					 * the iframe based on whether or not the menus are opening and closing.
+
+					 */
+
+					jQuery(iframe).load(function() {
+
+
+
+						var iframeWindow = iframe.contentWindow;
+
+
+
+						var cache_buddy_username = jQuery.cookie('cache_buddy_username');
+
+
+
+						// If the user is logged in, replace the sign in and sign out message with their name.
+
+						// Cachebuddy is going to to cache the stuff and make it look like you aren't logged in.
+
+						if( cache_buddy_username ) {
+
+							iframeWindow.jQuery('.user-is-logged-in').css({'display':'block'});
+
+							iframeWindow.jQuery('.user-is-logged-out').css({'display':'none'});
+
+
+
+							// Is there still a sign in/sign out message? (due to caching).
+
+							// Substitute with their username
+
+							if( iframeWindow.jQuery('li.my-account a .sign-in').length ) {
+
+								iframeWindow.jQuery('li.my-account a .sign-in').html( cache_buddy_username );
+
+								iframeWindow.jQuery('.manage-community-posts a').attr('href', 'http://bangordailynews.com/author/' + cache_buddy_username );
+
+							}
+
+						}
+
+
+
+
+
+						// Add a margin-top to the body to push the content down under the navbar
+
+						jQuery('body').css({
+
+							'margin-top': iframeWindow.jQuery('.navbar').height()
+
+						});
+
+
+
+						// Set the height of the iframe to the navbar when loaded
+
+						jQuery( iframe ).height( iframeWindow.jQuery('.navbar').height() );
+
+
+
+						/**
+
+						 * Rules for resizing the navbar when the mobile menu is collapsed
+
+						 */
+
+						iframeWindow.jQuery('.collapse').on('show.bs.collapse', function() {
+
+							// When the dropdown is opening, make the iframe height large.
+
+							jQuery(iframe).height(800);
+
+						});
+
+
+
+						iframeWindow.jQuery('.collapse').on('shown.bs.collapse', function() {
+
+							// When it's done loading, make the iframe the height of the navbar
+
+							jQuery(iframe).height( iframeWindow.jQuery('.navbar').height() );
+
+							jQuery('body').css({
+
+								'margin-top': iframeWindow.jQuery('.navbar').height()
+
+							});
+
+						});
+
+
+
+						iframeWindow.jQuery('.collapse').on('hidden.bs.collapse', function() {
+
+							// When it's done collapsing, resize the iframe to the height of the navbar.
+
+							jQuery(iframe).height( iframeWindow.jQuery('.navbar').height() );
+
+							jQuery('body').css({
+
+								'margin-top': iframeWindow.jQuery('.navbar').height()
+
+							});
+
+						});
+
+
+
+						/**
+
+						 * Rules for resizing the navbar when the dropdowns are activated.
+
+						 * Applies to both small and large device widths.
+
+						 */
+
+						iframeWindow.jQuery('.dropdown').on('show.bs.dropdown', function() {
+
+							// Whent he dropdown is opening, make the iframe height large.
+
+							jQuery(iframe).height(800);
+
+						});
+
+
+
+						// We don't do anything to reize the window based on the height of the open menu
+
+						// because they are positioned absolutely and out of the box model.
+
+						// This works on the caveat that if you tried to click on something under the iframe
+
+						// with the menu open, you will have to click it twice — once will close the menu,
+
+						// resizing the iframe, and a second time to actually click it.
+
+
+
+						iframeWindow.jQuery('.dropdown').on('hidden.bs.dropdown', function() {
+
+							// When it's done hiding the dropdown, resize the iframe to the height of the navbar.
+
+							jQuery( iframe ).height( iframeWindow.jQuery( '.navbar').height() );
+
+						});
+
+
+
+
+
+						/**
+
+						 * The following are functions that transform all links in the navbar.
+
+						 */
+
+						iframeWindow.jQuery('#bdn-tophat a')
+
+						/**
+
+						* track a click on an outbound link in Google Analytics.
+
+						* This function takes a valid URL string as an argument, and uses that URL string
+
+						* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+
+						* using 'navigator.sendBeacon' in browser that support it.
+
+						*
+
+						* @see https://support.google.com/analytics/answer/1136920?hl=en
+
+						*/
+
+						.on( 'click', function() {
+
+							ga('send', 'event', 'tophat click', window.location.href, jQuery(this).attr('href'), {
+
+							  'transport': 'beacon'
+
+							});
+
+						})
+
+						/**
+
+						 * Because this bar is loaded in an iframe, we must make every child link,
+
+						 * _unless otherwise specified_ open in the parent frame.
+
+						 */
+
+						.each(function() {
+
+							if( typeof jQuery( this ).attr('target') === 'undefined' ) {
+
+								jQuery( this ).attr('target', '_parent');
+
+							}
+
+						});
+
+
+
+						/**
+
+						* If there are navbars at the top of this theme that will be covered by
+
+						* the network bar, move them down please.
+
+						*/
+
+						jQuery('*').filter( function() {
+
+							var position = jQuery(this).css('position'),
+
+								top = jQuery(this).position().top,
+
+								notIframe = jQuery( this ).prop( 'tagName' ) !== 'IFRAME';
+
+
+
+							return position === 'fixed' && top < jQuery( iframe ).height() && notIframe;
+
+						}).css({'top' : jQuery(this).position().top + iframeWindow.jQuery( '.navbar').height() });
+
+
+
+						/**
+
+						* Resize the bar when the window resizes and readjust the top margin.
+
+						*/
+
+						jQuery( window ).resize(function() {
+
+							jQuery(iframe).width( jQuery(window).width() );
+
+							jQuery('body').css({
+
+								'margin-top': jQuery( iframe ).height()
+
+							});
+
+						}); //When the window resizes
+
+
+
+					}); //When the iframe is loaded
+
+
+
+				}); //When document ready
+
+			</script>
+
+					<script type="text/javascript" src="http://www.queryly.com/js/queryly.v2.js"></script>
+			<script type="text/javascript">queryly.init('26065cd4f2314f08',queryly.jquery('.queryly_search_button'));</script>
+			    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'bdn';
+        var disqus_domain = 'disqus.com';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1];
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/bangordailynews.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/bangordailynews.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://bangordailynews.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/cache-buddy/js/cache-buddy.min.js?ver=0.2.0-release'></script>
+<script type='text/javascript' src='http://bangordailynews.com/wp-content/plugins/bdn-gallery/js/bdn-gallery.js?ver=11'></script>
+<script type='text/javascript' src='http://bangordailynews.com/wp-content/mu-plugins/js/submitevent.js?ver=2'></script>
+
+
+<!-- START Parse.ly Include: Standard  WP_IS_DEV -->
+
+<div id="parsely-root" style="display: none">
+
+  <div id="parsely-cfg" data-parsely-site="bangordailynews.com"></div>
+
+</div>
+
+<script>
+
+(function(s, p, d) {
+
+  var h=d.location.protocol, i=p+"-"+s,
+
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+
+      :"static."+p+".com";
+
+  if (e) return;
+
+  e = d.createElement(s); e.id = i; e.async = true;
+
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+
+})("script", "parsely", document);
+
+</script>
+
+<!-- END Parse.ly Include -->
+
+
+
+
+
+
+
+    <script type="text/javascript">
+
+		var _qevents = _qevents || [];
+
+		(function() { var elem = document.createElement('script'); elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; elem.async = true; elem.type = "text/javascript"; var scpt = document.getElementsByTagName('script')[0]; scpt.parentNode.insertBefore(elem, scpt); })();
+
+		_qevents.push({qacct:"p-b68mGw5mrmI6Q",labels:'types.post, regions.midcoast, categories.homestead, categories.living, authors.acurtis, unit.a'});
+
+    </script>
+
+    <noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-b68mGw5mrmI6Q.gif?labels=types.post,regions.midcoast,categories.homestead,categories.living,authors.acurtis,unit.a" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+
+
+
+					<script type="text/javascript" src="http://wp-stats.com/count.js.php?user=bdn&wp_ID=1.2339644&platform=desktop" data-minify="no"></script>
+			<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({article:"auto"});
+	</script>
+	<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/bangordailynews/loader.js"></script>
+	<!-- Google Tag Manager -->
+
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TV6GDH"
+
+	                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+		})(window,document,'script','dataLayer','GTM-TV6GDH');</script>
+
+	<!-- End Google Tag Manager -->
+
+
+
+    <!-- ChartBeat -->
+
+    <script type='text/javascript'>
+
+        var _sf_async_config={uid:14550,domain:"bangordailynews.com",useCanonical:true};
+
+    </script>
+
+
+
+            <script type="text/javascript" src="http://static.chartbeat.com/js/chartbeat.js">
+
+
+
+	<script; type="text/javascript">;
+
+		var oldonload = window.onload;
+
+		window.onload = (typeof window.onload != 'function') ?
+
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+
+	</script>
+
+
+
+
+
+   <script type="text/javascript">
+
+   	var $mcGoal = {'settings':{'uuid':'a629a44de37af801f63b7384a','dc':'us1'}};
+
+   	(function() {
+
+   		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+
+   		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+
+   		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+
+   	})();
+
+   </script>
+
+
+
+</body>
+
+
+
+</html>
+
+
+<!-- 4.760 s -->

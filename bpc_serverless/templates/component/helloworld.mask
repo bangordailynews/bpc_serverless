@@ -1,0 +1,8 @@
+# template: helloworld.mask
+Hello {{ word }}!!!
+
+# render_handler event data
+{{ event|pprint }}
+
+# render_handler context data
+{{ context|pprint }}
